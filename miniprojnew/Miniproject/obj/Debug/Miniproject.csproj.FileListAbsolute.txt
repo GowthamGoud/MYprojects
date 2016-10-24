@@ -1,0 +1,12 @@
+E:\visualstudiows\Miniproject\Miniproject\bin\Debug\Miniproject.exe.config
+E:\visualstudiows\Miniproject\Miniproject\bin\Debug\Miniproject.exe
+E:\visualstudiows\Miniproject\Miniproject\bin\Debug\Miniproject.pdb
+E:\visualstudiows\Miniproject\Miniproject\obj\Debug\Miniproject.Form1.resources
+E:\visualstudiows\Miniproject\Miniproject\obj\Debug\Miniproject.Properties.Resources.resources
+E:\visualstudiows\Miniproject\Miniproject\obj\Debug\Miniproject.csproj.GenerateResource.Cache
+E:\visualstudiows\Miniproject\Miniproject\obj\Debug\Miniproject.exe
+E:\visualstudiows\Miniproject\Miniproject\obj\Debug\Miniproject.pdb
+E:\visualstudiows\Miniproject\Miniproject\obj\Debug\Miniproject.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\miniprojnew\Miniproject\bin\Debug\Miniproject.exe.config
+C:\Users\acer\Documents\GitHub\miniprojnew\Miniproject\obj\Debug\Miniproject.exe
+C:\Users\acer\Documents\GitHub\miniprojnew\Miniproject\obj\Debug\Miniproject.pdb
